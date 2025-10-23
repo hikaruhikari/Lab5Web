@@ -73,6 +73,9 @@ Kali ini saya akan mengerjakan tugas diatas dan berikut tampilannya:
    <img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/dda844ec-bcee-40b1-b48d-8c6de2ca0603" />
 
 6. validasi
- 
+ <img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/50148b97-ab7a-461e-95f5-6a5265edb46e" />
+
 7. script untuk melakukan validasi pada isian form.
-   
+<img width="1920" height="1080" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/a300e2f0-1b9b-4771-b622-3f8fba442f8b" />
+<img width="1920" height="1080" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/eda9e131-9e3f-461a-89e8-b9e847e699e6" />
+<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/190ba75f-be6e-4d96-b462-1ddade27ec85" />
